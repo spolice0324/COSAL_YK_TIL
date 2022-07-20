@@ -15,4 +15,8 @@ https://github.com/spolice0324/Javascript_practice/tree/main/JS_piscine/fe00/ex0
 https://velog.io/@spolice/%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%90%EC%84%9C-%EC%82%B4%EC%95%84%EB%82%A8%EA%B8%B0-%EB%A6%AC%EC%95%A1%ED%8A%B8-%EC%9E%85%EB%AC%B8
 
 
-## 2022.7.20 (오후 7시 20분 시작 ~
+## 2022.7.20 (오후 7시 20분 시작 ~ 오후 11시 05분)
+
+Javascript - 벨로퍼트 리액트 입문 자료의 실습을 따라해보고 그 내용을 업로드함.
+
+https://github.com/spolice0324/Javascript_practice/tree/main/JS_piscine/fe00/ex00/hello-react
