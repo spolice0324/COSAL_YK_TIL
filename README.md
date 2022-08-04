@@ -28,4 +28,6 @@ Javascript - 벨로퍼트 리액트 입문 자료의 실습을 따라하고 그 
 https://github.com/spolice0324/Javascript_practice/tree/main/JS_piscine/velopert/ex00/hello-react
 
 
-## 2022. 8. 4 (오후 8시 시작 ~
+## 2022. 8. 4 (오후 8시 시작 ~ 오후 11시 15분)
+
+Javascript - 벨로퍼트 리액트 입문 자료 실습을 따라해보고 그 내용을 업로드함. 저번 내용을 이어서 공부함. 다음주부터는 fe 피신을 다시 풀어볼 예정
