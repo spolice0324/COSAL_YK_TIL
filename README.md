@@ -26,3 +26,6 @@ https://github.com/spolice0324/Javascript_practice/tree/main/JS_piscine/fe00/ex0
 Javascript - 벨로퍼트 리액트 입문 자료의 실습을 따라하고 그 내용을 업로드했음. 저번 내용을 이어서 공부함.
 
 https://github.com/spolice0324/Javascript_practice/tree/main/JS_piscine/velopert/ex00/hello-react
+
+
+## 2022. 8. 4 (오후 8시 시작 ~
