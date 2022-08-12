@@ -33,4 +33,8 @@ https://github.com/spolice0324/Javascript_practice/tree/main/JS_piscine/velopert
 Javascript - 벨로퍼트 리액트 입문 자료 실습을 따라해보고 그 내용을 업로드함. 저번 내용을 이어서 공부함. 다음주부터는 fe 피신을 다시 풀어볼 예정
 
 
-## 2022. 8 . 12 ( 오후 2시 30분 시작 ~ 오후 
+## 2022. 8 . 12 ( 오후 2시 30분 시작 ~ 오후 6시 30분)
+
+지난 학기 들었던 운영체제 강의에서 중요하게 여겨졌던 알고리즘 - 철학자의 식사 문제에 대한 이해도를 확인하기 위해 벨로그에 관련 글을 요약하여 작성했다.
+https://velog.io/@spolice/OS-%EC%8B%9D%EC%82%AC%ED%95%98%EB%8A%94-%EC%B2%A0%ED%95%99%EC%9E%90-Dining-Philosopher
+
